@@ -1,4 +1,6 @@
-#English part
+# My project : UEOP-PROG
+
+## English part
 A french project for my studies, about irreductible polynomials and finite fields
 
 
@@ -11,7 +13,7 @@ You can take all information you want in this project, but please, keep in mind 
 Thanks !
 
 
-#French part
+## French part
 
 Un projet pour mes études, sur les polynômes irréductibles et les corps finis.
 
