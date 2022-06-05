@@ -1,4 +1,4 @@
-# My project : UEOP-PROG
+# My project : UE-PROG
 
 ## English part
 A french project for my studies, about irreductible polynomials and finite fields
