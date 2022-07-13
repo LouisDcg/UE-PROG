@@ -29,8 +29,6 @@ Vous pouvez prendre toutes les informations que vous voulez dans ce projet, mais
 
 Merci à vous !
 
-(Note : ce travail a été inspiré de mon TIPE en CPGE, que je ne publierai pas puisque le travail que vous consultez en est une version plus aboutie. Pour les curieux : j'ai eu 14,7/20 à mon TIPE, et 17,5/20 à ce travail)
-
 ### Erreurs
 Il peut y avoir quelques erreurs dans mon Notebook Jupyter : j'ai noté qu'il pouvait parfois y en avoir de flottants. Cependant, je ne sais pas où.
 
